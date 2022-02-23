@@ -158,7 +158,9 @@ from pandas import ExcelFile
 file = "e:\smartphone.xls"
 # baca data excel pada sheet "Sheet1"
 dataSheet1 = pd.read_excel(file, sheet_name="Sheet1")
+```
 
+```http
 # list seluruh Kategori
 listKategori = ["Galaxy-", "GalaxyZ"]
 # inisialisasi awal per produk
@@ -172,7 +174,7 @@ for data in dataSheet1["nama produk"]:
     kat = data[8:15] #membaca mulai digit 8 sampai digit 15
     if data[:7] == "Samsung": #membaca 7 digit, digit ke 1-7
         sumSamsung[kat] += 1
-        
+
 # untuk tampilan output
 print("Kategori/Series(Galaxy|GalaxyZ)".ljust(35), end="")
 
@@ -183,7 +185,9 @@ print("------------------------------------------------------------")
 print("Samsung".ljust(35), end="")
 for kat in listKategori:
     print(str(sumSamsung[kat]).rjust(8), end="")
+```
 
+```http
 # list seluruh Kategori
 listKategori = ["Mi", "PO", "Re"]
 # inisialisasi awal per produk
@@ -208,7 +212,9 @@ print("-----------------------------------------------------------------------")
 print("Xiaomi".ljust(40), end="")
 for kat in listKategori:
     print(str(sumXiaomi[kat]).rjust(10), end="")
+```
 
+```http
 # list seluruh Kategori
 listKategori = ["Ren", "Fin", "A54", "A74"]
 # inisialisasi awal per produk
@@ -233,7 +239,9 @@ print("-------------------------------------------------------------------------
 print("Oppo".ljust(40), end="")
 for kat in listKategori:
     print(str(sumOppo[kat]).rjust(10), end="")
+```
 
+```http
 # list seluruh Kategori
 listKategori = ["Y", "X", "V"]
 # inisialisasi awal per produk
@@ -258,7 +266,9 @@ print("-------------------------------------------------------------------------
 print("Vivo".ljust(45), end="")
 for kat in listKategori:
     print(str(sumVivo[kat]).rjust(10), end="")
+```
 
+```http
 # list seluruh Kategori
 listKategori = ["Nova", "Mate"]
 # inisialisasi awal per produk
@@ -283,7 +293,9 @@ print("-------------------------------------------------------------------------
 print("Huawei".ljust(40), end="")
 for kat in listKategori:
     print(str(sumHuawei[kat]).rjust(10), end="")
+```
 
+```http
 # list seluruh Kategori
 listKategori = ["C2", "8-", "GT"]
 # inisialisasi awal per produk
