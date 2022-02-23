@@ -1,13 +1,13 @@
 
 # Python - Penggunaan IF ELIF
 
-## Menghitung Jumlah Produk Per Merek
+## Menghitung Jumlah Jenis Produk Per Merek
  - Membaca file Excel .xls di Sheet1 
  - Membuat inisialisasi awal untuk variabel counter (variabel yang bertambah nilai datanya dengan interval tetap) untuk setiap merek
  - Membaca setiap data yang ada di field/kolom nama produk, mengecek jika data digit 1-6 Xiaomi maka variabel counter Xiaomi akan bertambah satu, sama halnya dengan merek lain juga dicek jika cocok maka variabel counternya juga akan bertambah satu, proses ini perulangan hingga semua data terbaca
  - Kemudian menampilkan output variabel counter untuk masing-masing merek
  
-#### Perintah untuk Menghitung Jumlah Produk Per Merek
+#### Perintah untuk Menghitung Jumlah Jenis Produk Per Merek
 
 ```http
 import pandas as pd
@@ -50,7 +50,7 @@ print("Jumlah produk Samsung :", sumSamsung)
 ```
 ![kasus 1](https://user-images.githubusercontent.com/86678205/155153537-b91fdfcf-591e-4a1a-9a48-672d9274a330.PNG)
 
-## Mencari Jumlah Produk Per Merek Per Kategori
+## Mencari Jumlah Jenis Produk Per Merek Per Kategori
  - Membaca file Excel .xls di Sheet1 
  - Membuat list untuk semua kategori yang ada yang akan dihitung jumlah per kategori ada berapa macam (bukan stok barang)
  - Membuat inisialisasi awal untuk variabel counter (variabel yang bertambah nilai datanya dengan interval tetap) untuk setiap merek
@@ -58,7 +58,7 @@ print("Jumlah produk Samsung :", sumSamsung)
  - Kemudian menampilkan output variabel counter untuk masing-masing merek & kategorinya
  - Fungsi ljust() & rjust agar tampilan dapat berbentuk seperti kolom sehingga tampilan pada setiap cell rata
 
-#### Perintah untuk Mencari Jumlah Produk Per Merek Per Kategori (Tampilan Seluruh Merek)
+#### Perintah untuk Mencari Jumlah Jenis Produk Per Merek Per Kategori (Tampilan Seluruh Merek)
 
 ```http
 import pandas as pd
@@ -148,7 +148,7 @@ for kat in listKategori:
 ##
 ![2](https://user-images.githubusercontent.com/86678205/155153738-a3d831c6-0e89-4f19-bdc2-c692a886527b.PNG)
 
-#### Perintah untuk Mencari Jumlah Produk Per Merek Per Kategori (Tampilan Per Merek)
+#### Perintah untuk Mencari Jumlah Jenis Produk Per Merek Per Kategori (Tampilan Per Merek)
 
 ```http
 import pandas as pd
