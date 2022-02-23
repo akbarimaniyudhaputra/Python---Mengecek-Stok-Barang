@@ -1,5 +1,5 @@
 
-# Python - Penggunaan IF ELIF
+# Python - Penggunaan IF-ELIF-ELSE
 
 ## Menghitung Jumlah Jenis Produk Per Merek
  - Membaca file Excel .xls di Sheet1 
