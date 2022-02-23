@@ -1,0 +1,60 @@
+kode;produsen;kategori;nama produk;ram;memori;Operating System;Chipset;CPU;GPU;kamera belakang;kamera depan;layar;baterai;harga;terjual;jumlah penilai;bintang;bintang 5;bintang 4;bintang 3;bintang 2;bintang 1;stok
+1;Xiaomi;Mi;Xiaomi-Mi-10;8gb;256gb;MIUI 11;SnapdragonTM 865;KyroTM 585 2,84GHz;Adreno 650 ;108 + 13 + 2 + 2 MP;20 MP;6.67;4.780mAh;9.999.000;1,5rb;703;4.8;613;56;14;3;17;1
+2;Xiaomi;POCO ;Xiaomi-POCO-X3-Pro;6gb;128gb;MIUI 12 ;Snapdragon 860;Kyro 485 2,96Ghz;Adreno 640;48 + 8 + 2 + 2 MP;20 MP;6.67;5.160mAh;3.599.000;10rb+;14,8rb;4.9;13,5rb;1,1rb;149;41;57;1132
+3;Xiaomi;POCO ;Xiaomi-POCO-X3-Pro-ExtraRamMemori;8gb;256gb;MIUI 12 ;Snapdragon 860;Kyro 485 2,96Ghz;Adreno 640;48 + 8 + 2 + 2 MP;20 MP;6.67;5.160mAh;4.099.000;10rb+;12,1rb;4.9;11,1rb;767;119;27;63;0
+4;Xiaomi;POCO ;Xiaomi-POCO-X3-GT-ExtraMemori;8gb;256gb;MIUI 12.5;MediaTek;Cortex-A78 2,6Ghz;Mali-G77 MC9;64 + 8 + 2 + 2 MP;16 MP;6,6;5.000mAh;4.699.000;3,4rb;2rb;4.7;1,8rb;132;51;22;59;676
+5;Xiaomi;POCO;Xiaomi-POCO-X3-GT;8gb;128gb;MIUI 12.5;MediaTek;Cortex-A78 2,6Ghz;Mali-G77 MC9;64 + 8 + 2 + 2 MP;16 MP;6,6;5.000mAh;4.299.000;2,7rb;1,6rb;4.8;1,4rb;131;37;12;30;0
+6;Xiaomi;POCO ;Xiaomi-POCO-F3-5G-ExtraRamMemori;8gb;256gb;MIUI 12 ;Snapdragon 870;Kyro 585 3,26Ghz;Adreno 650 ;48 + 8 + 5 + 2 MP;20 MP;6.67;4.520mAh;5.599.000;4,3rb;2,7rb;4.9;2,5rb;134;21;7;5;0
+7;Xiaomi;POCO ;Xiaomi-POCO-F3-5G;6gb;128gb;MIUI 12 ;Snapdragon 870;Kyro 585 3,26Ghz;Adreno 650 ;48 + 8 + 5 + 2 MP;20 MP;6.67;4.520mAh;5.099.000;996;661;4.9;602;44;9;0;6;0
+8;Xiaomi;POCO ;Xiaomi-POCO-M3-Pro-5G;4gb;64gb;MIUI 12 ;Snapdragon 662;Cortex-A76 2,2Ghz;Mali-G57 MC2;48 + 2 + 2 MP;8 MP;6,53;5.000mAh;2.649.000;1,4rb;806;4.9;740;53;7;4;2;71
+9;Xiaomi;Mi;Xiaomi-Mi-11-Lite;6gb;64gb;MIUI 12 ;Snapdragon 732G;Kyro 470 2,3Ghz;Adreno 618;64 + 8 + 5 MP;16 MP;6,55;4.250mAh;3.599.000;2,1rb;1,2rb;4.9;1,1rb;87;11;3;7;1149
+;;;;;;;;;;;;;;3.599.000;1,3rb;733;4.9;684;41;7;0;1;0
+10;Xiaomi;Redmi;Xiaomi-Redmi-9C;3gb;32gb;MIUI 12 ;MediaTek;Helio G35 2.0Ghz;PowerVR GE8320;13MP;5MP;6,53;5.000mAh;1.549.000;10rb+;18,9rb;4.9;17,5rb;1,2rb;145;37;65;0
+11;Xiaomi;Redmi;Xiaomi-Redmi-Note10-pro;6gb;128gb;MIUI 12 ;Snapdragon 732G;Kyro 470 2,3Ghz;Adreno 618;108 + 8 + 5 + 2 MP;16 MP;6.67;5.020mAh;3.799.000;3,9rb;2,4rb;4.9;2,2rb;161;16;2;5;114
+12;Xiaomi;Redmi;Xiaomi-Redmi-Note10-pro-ExtraRam;8gb;128gb;MIUI 12 ;Snapdragon 732G;Kyro 470 2,3Ghz;Adreno 618;108 + 8 + 5 + 2 MP;16 MP;6.67;5.020mAh;3.999.000;10rb+;18,6rb;4.9;17,3rb;1,1rb;131;63;79;304
+13;Xiaomi;Redmi;Xiaomi-Redmi-Note10-5G;4gb;128gb;MIUI 12 ;MediaTek ;Cortex-A76 2,2Ghz;Mali-G57 MC2;48 + 2 + 2 MP;8 MP;;5.000mAh;2.749.000;5,6rb;3rb;4.9;2,8rb;182;21;12;14;70
+14;Xiaomi;Redmi;Xiaomi-Redmi-Note10S;6gb;64gb;MIUI 12.5;MediaTek ;Helio G95 2,05Ghz;Mali-G76 MC4 ;64 + 8 + 2 + 2 MP;13 MP;6.43;5.000mAh;2.899.000;8rb;4,8rb;4.9;4,4rb;336;49;18;18;130
+15;Samsung;Galaxy;Samsung-Galaxy-M22-LightBlue;6gb;128gb;Android 11;MediaTek ;Helio G80 ;;48 + 8 + 2 + 2 MP;13 MP;6.4;5.000mAh;2.579.000;6,5rb;2,8rb;4.9;2,5rb;189;33;3;10;1
+16;Samsung;Galaxy;Samsung-Galaxy-M22-Black;6gb;128gb;Android 11;MediaTek ;Helio G80 ;;48 + 8 + 2 + 2 MP;13 MP;6.4;5.000mAh;2.579.000;9,3rb;4,3rb;4.9;3,9rb;303;41;11;19;0
+17;Samsung;Galaxy;Samsung-Galaxy-A52-Black;8gb;256gb;;Snapdragon 720G;;;64 + 12 + 5 + 5 MP;32 MP;6.5;;5.399.000;1,5rb;920;4.9;871;43;1;1;4;62
+18;Samsung;Galaxy;Samsung-Galaxy-M62-Blue;8gb;256gb;;Exynos 9825;;;64 + 12 + 5 + 5 MP;32 MP;6.7;7.000mAh;5.999.000;450;138;4.9;124;12;1;0;1;12
+19;Samsung;Galaxy;Samsung-Galaxy-M62-Black;8gb;256gb;;Exynos 9825;;;64 + 12 + 5 + 5 MP;32 MP;6.7;7.000mAh;5.999.000;492;201;4.9;191;7;1;0;2;24
+20;Samsung;Galaxy;Samsung-Galaxy-S21-Ultra5G-Black;12gb;256gb;;Exynos 2100;;;108 + 10 + 12 + 10 MP;40 MP;6.8;5.000mAh;19.533.200;102;44;4.9;42;0;1;0;1;2
+21;Samsung;Galaxy;Samsung-Galaxy-S21-Ultra5G-Silver;12gb;256gb;;Exynos 2100;;;108 + 10 + 12 + 10 MP;40 MP;6.8;5.000mAh;19.533.200;35;10;4.8;9;0;1;0;0;1
+22;Samsung;Galaxy;Samsung-Galaxy-A22-LTE-Black;6gb;128gb;;MediaTek ;Helio G80 ;;48 + 8 + 2 + 2 MP;13 MP;6.4;5.000mAh;2.999.000;2,5rb;1,5rb;4.9;1,4rb;99;11;1;8;229
+23;Samsung;Galaxy;Samsung-Galaxy-A12-ExtraRam-Black;6gb;128gb;;Exynos 850;;;48 + 5+ 2 + 2 MP;8 MP;6.5;5.000mAh;2.499.000;323;182;4.9;167;14;1;0;0;150
+24;Samsung;Galaxy;Samsung-Galaxy-A12-ExtraRam-White;6gb;128gb;;Exynos 850;;;48 + 5+ 2 + 2 MP;8 MP;6.5;5.000mAh;2.499.000;221;131;4.9;122;8;1;0;0;135
+25;Samsung;Galaxy;Samsung-Galaxy-A12-ExtraRam-Blue;6gb;128gb;;Exynos 850;;;48 + 5+ 2 + 2 MP;8 MP;6.5;5.000mAh;2.499.000;366;229;4.9;203;21;3;1;1;172
+26;Samsung;Galaxy;Samsung-Galaxy-A12-White;4gb;128gb;;Exynos 850;;;48 + 5+ 2 + 2 MP;8 MP;6.5;5.000mAh;2.299.000;240;124;4.9;116;6;2;0;0;27
+27;Samsung;Galaxy;Samsung-Galaxy-A12-Blue;4gb;128gb;;Exynos 850;;;48 + 5+ 2 + 2 MP;8 MP;6.5;5.000mAh;2.299.000;385;213;4.9;191;20;1;1;0;172
+28;Samsung;GalaxyZ;Samsung-GalaxyZ-Flip3-5G-Black;8gb;128gb;;Snapdragon 888;;;12 + 12 MP;10 MP;6.7;3.300mAh;14.999.000;17;11;4.5;9;1;0;0;1;8
+29;Samsung;GalaxyZ;Samsung-GalaxyZ-Flip3-5G-Cream;8gb;128gb;;Snapdragon 888;;;12 + 12 MP;10 MP;6.7;3.300mAh;14.999.000;16;11;5;11;0;0;0;0;10
+30;Samsung;GalaxyZ;Samsung-GalaxyZ-Flip3-5G-ExtraMemori-Black;8gb;256gb;;Snapdragon 888;;;12 + 12 MP;10 MP;6.7;3.300mAh;15.999.000;20;12;4.8;10;0;1;1;0;9
+31;Samsung;GalaxyZ;Samsung-GalaxyZ-Flip3-5G-ExtraMemori-Cream;8gb;256gb;;Snapdragon 888;;;12 + 12 MP;10 MP;6.7;3.300mAh;15.999.000;20;8;5;8;0;0;0;0;23
+32;Samsung;GalaxyZ;Samsung-Galaxy-M12-Green;3gb;32gb;;;;;48 + 5+ 2 + 2 MP;8 MP;6.5;5.000mAh;1.851.500;4,2rb;2rb;4.9;1,8rb;152;27;6;3;0
+33;Samsung;GalaxyZ;Samsung-GalaxyZ-Fold3-5G-ExtraMemori-Black;12gb;512gb;;Snapdragon 888;;;10 MP;4 MP;7.6;4.400mAh;26.999.000;39;13;4.8;12;0;1;0;0;22
+34;Samsung;GalaxyZ;Samsung-GalaxyZ-Fold3-5G-Black;12gb;256gb;;Snapdragon 888;;;10 MP;4 MP;7.6;4.400mAh;24.999.000;21;6;4.2;4;1;0;0;1;8
+35;Oppo;Reno;Oppo-Reno-5F;8gb;128gb;Colos OS 11 on Android 11;Mediatek MT6779V;Helio P95;;48 + 8 + 2 + 2 MP;32 MP;6.43;4.310mAh;3.499.000;2rb;1,2rb;4.9;1,1rb;59;3;3;0;97
+36;Oppo;A series;Oppo-A54;6gb;128gb;Colos OS 7.2 berbasis Android 10;;MT6765V 2,3Ghz;IMG GE8320;13 + 2 + 2 MP;16 MP;6.51;4.890mAh;3.099.000;1,9rb;1,2rb;4.9;1,1rb;63;5;0;0;36
+37;Oppo;Reno;Oppo-Reno-4-pro;8gb;256gb;Color OS 7.2 based on Android 10;Snapdragon 720G;;Adreno 618;48 + 8 + 2 + 2 MP;32 MP;6.5;3.910mAh;5.599.000;814;500;4.9;457;35;4;1;3;21
+38;Oppo;Reno;Oppo-Reno-2-Disney8;8gb;256gb;Color OS 6.1 based on Android 9;;SDM730G;Adreno 618;48 + 8 + 13 + 2 MP;16 MP;6.5;3.915mAh;8.999.000;36;24;5;23;0;0;0;0;1
+39;Oppo;Find;Oppo-Find-X3-pro-5G;12gb;256gb;Color OS 11.2 berbasis Android 11;SnapdragonTM 888;;Adreno 660 ;50 + 50 + 13 + 3 MP;32 MP;6.7;4.500mAh;14.999.000;29;20;4.8;19;0;0;1;0;1
+40;Oppo;Reno;Oppo-Reno-6;8gb;128gb;Color OS 11.1 berbasis Android 11;Snapdragon 720G;2,3Ghz;Adreno 618;64 + 8 + 2 + 2 MP;44 MP;6.4;4.310mAh;4.999.000;2,7rb;1,6rb;4.9;1,5rb;84;3;3;1;218
+41;Oppo;Reno;Oppo-Reno-6-5G;8gb;128gb;Color OS 11.3 berbasis Android 11;MediaTek Dimensity 900;2,4Ghz;Mali-G68 MC4 ;64 + 8 + 2 + 2 MP;32 MP;6.4;4.300mAh;7.499.000;251;142;4.9;134;8;0;0;0;5
+42;Oppo;A series;Oppo-A74;6gb;128gb;Color OS 11.1 berbasis Android 11;Snapdragon 662;2Ghz;Adreno 610;48 + 2 + 2 MP;16 MP;;5.000mAh;3.399.000;1,1rb;697;4.9;656;41;0;0;0;23
+43;Oppo;Reno;Oppo-Reno-6-pro-5G;12gb;256gb;Color OS 11.3 berbasis Android 11;Snapdragon 870;;Adreno 650 ;50 + 16 + 13 + 2 MP;32 MP;6.5;4.500mAh;10.999.000;41;26;4.8;24;1;0;0;1;9
+44;Oppo;Reno;Oppo-Reno-5;8gb;128gb;Color OS 11.1 berbasis Android 11;Snapdragon 720G;2,3Ghz;Adreno 618;64 + 8 + 2 + 2 MP;44 MP;6.4;4.310mAh;4.499.000;3,3rb;2,1rb;4.9;2rb;106;8;4;5;263
+45;Realme;;Realme-C21Y;4gb;64gb;realme UI;;;;13 MP Triple Camera;;6.5;5.000mAh;1.799.000;7,5rb;4,3rb;4.9;4rb;331;22;4;10;65
+46;Realme;;Realme-8-pro-SE;8gb;128gb;realme UI 2.0 on Android 11;Snapdragon 720G;;;108 + 8 + 2 + 2 MP;16 MP;6.4;4.500mAh;4.299.000;80;56;4.9;52;4;0;0;0;24
+47;Realme;;Realme-GT-MasterEdition;8gb;128gb;realme UI 2.0;Snapdragon 778G;2,4Ghz;;64 MP;32 MP;;;4.999.000;266;164;4.9;150;12;2;0;0;106
+48;Vivo;Y series;Vivo-Y-12s;3gb;32gb;Funtouch OS 11 berdasarkan Android 10;Helio 35;;;8 MP;13 + 2 MP;6.51;5.000mAh;1.899.000;10rb+;9,8rb;4.9;9,2rb;528;43;4;14;66
+49;Vivo;Y series;Vivo-Y-21s-ExtraMemori;5gb;128gb;Funtouch OS 11.1 ;Helio P35;;;13 + 2 MP;8 MP;6.51;5.000mAh;2.799.000;886;527;4.9;501;24;2;0;0;27
+50;Vivo;Y series;Vivo-Y-21;5gb;64gb;Funtouch OS 11.1 ;Helio P35;;;13 + 2 MP;8 MP;6.51;5.000mAh;2.399.000;2,2rb;1,3rb;4.9;1,2rb;65;5;2;2;22
+51;Vivo;Y series;Vivo-Y-53s-Rainbow;8gb;128gb;Funtouch OS 11.1 ;Helio G80 ;;;64 + 2 + 2 MP;16 MP;6.58;5.000mAh;3.699.000;304;195;4.9;179;14;1;0;1;28
+52;Vivo;Y series;Vivo-Y-53s-Blue;8gb;128gb;Funtouch OS 11.1 ;Helio G80 ;;;64 + 2 + 2 MP;16 MP;6.58;5.000mAh;3.699.000;270;167;4.9;158;7;1;0;1;67
+53;Vivo;X series;Vivo-X-60;8gb;128gb;Funtouch OS 11.1 Global on Android 11;Snapdragon 870;;;48 + 13 + 13 MP;32 MP;6.56;4.300mAh;7.999.000;35;20;4.9;19;0;1;0;0;4
+54;Vivo;V series;Vivo-V-21;8gb;128gb;Funtouch OS 11.1 Global on Android 11;Snapdragon 720G;;;64 + 8 + 2 MP;44 MP;6.44;4.000mAh;3.999.000;896;581;4.9;552;27;2;0;0;17
+55;Vivo;V series;Vivo-V-23e-Sunshine;8gb;128gb;Funtouch OS 12;MediaTek G96;;;64 + 8 + 2 MP;50 MP;6.44;4.050mAh;4.399.000;265;172;5;166;6;0;0;0;74
+56;Vivo;V series;Vivo-V-23e-Moonlight;8gb;128gb;Funtouch OS 12;MediaTek G96;;;64 + 8 + 2 MP;50 MP;6.44;4.050mAh;4.399.000;193;123;4.9;119;2;1;0;1;92
+57;Huawei;Nova ;Huawei-Nova-9;8gb;256gb;EMUI 12;Snapdragon 778G;;;50 + 8 MP;32 MP;6.57;4.300mAh;7.599.000;97;61;5;60;1;0;0;0;44
+58;Huawei;Mate;Huawei-Mate-Xs-5G;8gb;512gb;EMUI 10.0.1 on Android 10;Kirin 990;;;40 + 16 + 8 MP;;8;4.500mAh;42.999.000;5;3;5;3;0;0;0;0;1
