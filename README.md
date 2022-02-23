@@ -1,9 +1,11 @@
 
-# Python - Mengecek Stok Barang
+# Python - Penggunaan IF ELIF
 
 ## Menghitung Jumlah Produk Per Merek
- - 
- - A
+ - Membaca file Excel .xls di Sheet1 
+ - Membuat inisialisasi awal untuk variabel counter (variabel yang bertambah nilai datanya dengan interval tetap) untuk setiap merek
+ - Membaca setiap data yang ada di field/kolom nama produk, mengecek jika data digit 1-6 Xiaomi maka variabel counter Xiaomi akan bertambah satu, sama halnya dengan merek lain juga dicek jika cocok maka variabel counternya juga akan bertambah satu, proses ini perulangan hingga semua data terbaca
+ - Kemudian menampilkan output variabel counter untuk masing-masing merek
  
 #### Perintah untuk Menghitung Jumlah Produk Per Merek
 
@@ -49,7 +51,12 @@ print("Jumlah produk Samsung :", sumSamsung)
 ![kasus 1](https://user-images.githubusercontent.com/86678205/155153537-b91fdfcf-591e-4a1a-9a48-672d9274a330.PNG)
 
 ## Mencari Jumlah Produk Per Merek Per Kategori
- - t
+ - Membaca file Excel .xls di Sheet1 
+ - Membuat list untuk semua kategori yang ada yang akan dihitung jumlah per kategori ada berapa macam (bukan stok barang)
+ - Membuat inisialisasi awal untuk variabel counter (variabel yang bertambah nilai datanya dengan interval tetap) untuk setiap merek
+ - Proses pencacahan data kategori per produk melalui field/kolom nama produk, proses ini perulangan hingga semua data terbaca
+ - Kemudian menampilkan output variabel counter untuk masing-masing merek & kategorinya
+ - Fungsi ljust() & rjust agar tampilan dapat berbentuk seperti kolom sehingga tampilan pada setiap cell rata
 
 #### Perintah untuk Mencari Jumlah Produk Per Merek Per Kategori (Tampilan Seluruh Merek)
 
@@ -315,9 +322,14 @@ for kat in listKategori:
 ![10](https://user-images.githubusercontent.com/86678205/155154250-1b39a6f5-6a71-4467-be28-ac72643b81c6.PNG)
 
 ## Mencari Seluruh Kategori Apa Saja yang Ada
- - D
- - K
- - A
+ - Membaca file CSV 
+ - Membuat sebuah dictionary awal
+ - Proses perulangan untuk mengecek setiap data, apabila nama kategori sudah ada di fungsi keys() sumKategori maka nilai pada key kategori akan bertambah satu, jika nama kategori belum ada di fungsi keys() sumKategori, maka masukkan key ke sumKategori dengan nilai sama dengan satu
+ - Kemudian dictionary disorting nilainya dari besar ke kecil (descending) dengan fungsi sorted()
+ - parameter fungsi sorted() yang sumKategori.items() artinya data yang akan disorting adalah items dari dictionary (pasangan key & valuenya)
+ - parameter fungsi sorted() yang key=itemgetter(1) artinya sorting dilakukan berdasrkan valuenya, jika key=itemgetter(0) artinya sorting dilakukan berdasarkan nama key
+ - parameter fungsi sorted() yang reserve=True artinya bahwa sorting dilakukan dari besar ke kecil (descending)
+ - range(5) artinya menampilkan 5 data terbanyak
 
  #### Perintah untuk Mencari Seluruh Kategori Apa Saja yang Ada (tampilan mendatar)
 
